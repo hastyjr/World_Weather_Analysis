@@ -19,3 +19,4 @@ You will find the following folders contiaining the deliverables, to include the
   - Vacation_Itinerary.ipynb
   - WeatherPy_travel_map.png
   - WeatherPy_travel_map_markers.png
+![WeatherPy_travel_map_markers](https://github.com/hastyjr/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
